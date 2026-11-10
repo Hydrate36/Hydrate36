@@ -27,7 +27,3 @@
 ### 🎧 Off the keyboard
 
 Genshin Impact, Hearts of Iron IV, anime and Hatsune Miku 💜
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hydrate36&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
