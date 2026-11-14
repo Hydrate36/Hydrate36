@@ -41,4 +41,4 @@
 
 ### 🎧 Off the keyboard
 
-Genshin Impact, Hearts of Iron IV, anime and Hatsune Miku 💜
+Genshin Impact, Minecraft, anime and Hatsune Miku 💜
