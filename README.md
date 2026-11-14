@@ -13,7 +13,7 @@
 
 ### 🛠️ What I build
 
-- 🎮 **Minecraft plugins** – custom Java plugins for the SMP I run (15–30 players), including a Discord bridge
+- 🎮 **Minecraft plugins** – custom Java plugins for the SMP including a Discord bridge
 - 🤖 **Discord bots** – a moderation bot with 38+ slash commands, SQLite-backed, running on multiple servers
 - 🚀 **Duet** – my own Minecraft launcher, built to be fast and good-looking
 
